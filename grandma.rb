@@ -7,7 +7,7 @@ if phrase.upcase == true
   elsif phrase.capitalize == true
   puts " HUH?! SPEAK UP, SONNY!"
 else phrase.swapcase == true
-  puts ""
+  puts "NO, NOT SINCE 1938!"
 end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
