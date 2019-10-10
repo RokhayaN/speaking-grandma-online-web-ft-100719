@@ -5,7 +5,9 @@ def speak_to_grandma ("I LOVE YOU GRANDMA!")
 if phrase.upcase == true
   puts " I LOVE YOU PUMPKIN !"
   elsif phrase.capitalize == true
-  puts 
+  puts " HUH?! SPEAK UP, SONNY!"
+else phrase.swapcase == true
+  puts ""
 end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
